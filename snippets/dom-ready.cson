@@ -1,0 +1,8 @@
+'.source.js':
+  'DOM Ready':
+    'prefix': 'ready'
+    'body': """
+    $.ready().then(function(){
+    	$1
+    });
+    """

@@ -1,6 +1,0 @@
-".text.html":
-  "iron image":
-    "prefix": "iron-image"
-    "body": """
-    <iron-image src="$1" ${2:preload} sizing="${3:cover}"></iron-image>
-    """

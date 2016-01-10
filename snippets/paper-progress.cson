@@ -1,6 +1,0 @@
-".text.html":
-  "paper progress":
-    "prefix": "paper-progress"
-    "body": """
-    <paper-progress value="${1:10}"></paper-progress>
-    """

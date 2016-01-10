@@ -1,6 +1,0 @@
-".text.html":
-  "template":
-    "prefix": "template"
-    "body": """
-    <template$1>$0</template>
-    """

@@ -1,9 +1,0 @@
-".text.html":
-  "google-realtime-api":
-    "prefix": "grapi"
-    "body": """
-    <google-realtime-api
-      on-api-load="${1:googleRealtimeLoaded}">
-    </google-realtime-api>
-    $0
-    """

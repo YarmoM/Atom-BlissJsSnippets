@@ -1,8 +1,0 @@
-".text.html":
-  "Template dom-bind":
-    "prefix": "domb"
-    "body": """
-    <template is="dom-bind">
-      $0
-    </template>
-    """
