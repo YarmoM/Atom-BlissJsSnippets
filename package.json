@@ -1,0 +1,28 @@
+{
+  "name": "blissjs-snippets",
+  "main": "./lib/blissjs-snippets",
+  "version": "0.1.0",
+  "description": "Bliss.js Snippets for Atom",
+  "author": {
+    "name": "Yarmo Mackenbach",
+    "email": "yarmo@medea.one",
+    "url": "http://medea.one"
+  },
+  "maintainers": [
+    {
+      "name": "Yarmo Mackenbach",
+      "email": "yarmo@medea.one"
+    }
+  ],
+  "activationCommands": {
+    "atom-text-editor": [
+      "blissjs-snippets:toggle"
+    ]
+  },
+  "repository": "https://github.com/YarmoM/Atom-BlissJsSnippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {}
+}
