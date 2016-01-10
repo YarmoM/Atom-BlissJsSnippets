@@ -1,0 +1,4 @@
+'.source.js':
+  'Selector':
+    'prefix': 'sel'
+    'body': '$(\'$1\')'

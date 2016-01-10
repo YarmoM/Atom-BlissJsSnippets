@@ -1,0 +1,4 @@
+'.source.js':
+  'Selector all':
+    'prefix': 'selall'
+    'body': '$$(\'$1\')$2'

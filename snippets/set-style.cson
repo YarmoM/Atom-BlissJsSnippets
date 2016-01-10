@@ -1,0 +1,8 @@
+'.source.js':
+  'Set style':
+    'prefix': 'setstyle'
+    'body': """
+style: {
+	$1
+}$2
+    """

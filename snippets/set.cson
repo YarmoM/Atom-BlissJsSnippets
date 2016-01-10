@@ -1,0 +1,8 @@
+'.source.js':
+  'Set':
+    'prefix': 'set'
+    'body': """
+_.set({
+  $1
+});
+    """
